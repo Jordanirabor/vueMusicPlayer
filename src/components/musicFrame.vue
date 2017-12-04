@@ -15,11 +15,9 @@
 Your browser does not support the audio element.
 
 </audio>
-
 <button>Play</button>
 <button>Pause</button>
-<button>Next</button>
-<button>Previous</button>
+
 </div>
 
 </div>
@@ -102,7 +100,7 @@ props : {
   color: white;
   background: #172951;
   padding: 0.5em 3em;
-  margin: 0.8em 1em;
+  margin: 0.8em 6em;
   border-radius: 5px;
   font-size: 1em;
 }
